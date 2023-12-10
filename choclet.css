@@ -1,0 +1,28 @@
+*{
+    
+    background-color: blanchedalmond;
+}
+video{
+    height: 720px;
+    
+    
+}
+
+
+img{
+    padding: 1px 0px 0px 5px;
+}
+
+h1{
+    padding: 10px 50px;
+}
+
+p{
+    font-size: large;
+    color: brown;
+    padding: 10px 50px;
+}
+
+iframe{
+    padding: 10px 50px;
+}
